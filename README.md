@@ -1,1 +1,1 @@
-# bigdata_cloud_DE25_christoffer_carlsson
+# Code along repo for Databricks and Azure course
